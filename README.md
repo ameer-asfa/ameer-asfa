@@ -6,10 +6,10 @@
 <br>
 
 ## :sassy_man:  About me
-- :school: I am a `graduate` from Universiti Tun Hussein Onn, Malaysia
+- :school: I am a `student` from Universiti Tun Hussein Onn, Malaysia
 - :computer: I found myself enjoying computers way too much
-- :student: I’m currently learning: `Laravel` 
+- :student: I’m currently learning `Laravel` 
 - :computer_mouse: Actively working on `Some Amazing Project I haven't Started`  
 - :nerd_face: Constantly `wondering`
-- :mailbox: Reach me: <a href="https://www.linkedin.com/in/ameer-asfa/">LinkedIn</a>
+- :mailbox: Reach me through <a href="https://www.linkedin.com/in/ameer-asfa/">LinkedIn</a>
 
